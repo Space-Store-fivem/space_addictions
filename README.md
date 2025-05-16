@@ -1,7 +1,7 @@
 
 # 🚬 Space Addictions
 
-Sistema avançado de dependência química para servidores **QBCore** com efeitos visuais, HUD, tratamentos e controle administrativo.
+Sistema avançado de dependência química para servidores **QBCore e Qbox** com efeitos visuais, HUD, tratamentos e controle administrativo.
 
 ---
 
